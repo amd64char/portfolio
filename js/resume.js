@@ -7,7 +7,7 @@
     "phone": "(248) 730-2568",
     "website": "https://www.linkedin.com/in/charlieseitz/",
     "summary": "<p>Web application developer with over 19 years of experience in client-server technologies, software design and software development life-cycle. Experienced in the development of consumer facing database driven web-sites and working with internal teams (Brand Communications, Project Management, Account and Creative) to implement required functionality and design.</p><p>Dedicated professional experienced in website and software development processes, along with creating technical and procedural documentation, implementing best practices and adhering to high coding standards.</p><p>Will continue to seek out new technologies and utilize proven methodologies to provide a higher quality service and develop efficient web applications for clients and partners.</p>",
-  	"resumeDownload": "charlieseitz_resume_new.docx",
+  	"resumeDownload": "https://github.com/amd64char/portfolio/blob/master/charlieseitz_resume_new.docx?raw=true",
     "location": {
       "address": "",
 	  "postalCode": "",
